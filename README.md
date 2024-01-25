@@ -21,5 +21,5 @@ This is due to Coral Health Chart which limit the types and colors of coral that
 ## Dataset
 ### Collected from various source in the internet and taken by myself in Indonesia water.
 
-Dataset in this repository is already preprocessed before hand.
+Dataset in this repository is not uploaded due to the large size of dataset 
 
